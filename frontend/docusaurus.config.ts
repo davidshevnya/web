@@ -54,6 +54,7 @@ const config: Config = {
       "en",
       "es",
       "ru",
+      "uk",
       "ar",
       "bs",
       "de",
